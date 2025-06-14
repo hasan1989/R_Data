@@ -1,0 +1,2 @@
+Link to share
+counties <- readRDS(url("https://github.com/hasan1989/R_Data/raw/refs/heads/main/counties.rds"))
